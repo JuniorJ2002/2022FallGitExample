@@ -10,6 +10,7 @@ Once upon a time...
 ==tree==
 There is a tree.
 
+#AUDIO: audio/shorthorn.wav
 
 
 {hiTree == false:
